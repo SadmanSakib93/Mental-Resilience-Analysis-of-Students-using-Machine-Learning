@@ -2,6 +2,7 @@
 
 # Descriptions of each python file:
 •	Regression & Correlation folder contains python code for finding out correlations and regression results.
+
 •	Outputs folder contains results of different programs generate.
 •	ageBinning.py: This code was used for making age categorical using binning.
 •	ClusteringResilienceK_1_10.py: This program uses find cluster on resilience score (cluster 2 to 10) 
