@@ -1,0 +1,9 @@
+﻿,,Ridge Regression,,,,,,,Random Forest Regression,,,
+CROSS VALIDATION,,,,,,,,CROSS VALIDATION,,,,
+Mean Absolute Error: 0.08483533874103835,,Mean Squared Error: 0.01161788412435147,,Root Mean Squared Error: ,,,,Mean Absolute Error: ,,Mean Squared Error: ,,Root Mean Squared Error: 
+0.084835339,,0.011617884,,0.107786289,,,,0.086078338,,0.012168037,,0.110308823
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Y/100,,,,,,,,Y/100,,,,
+Mean Absolute Error: ,,Mean Squared Error:,,Root Mean Squared Error:,,,,Mean Absolute Error: ,,Mean Squared Error:,,Root Mean Squared Error:
+0.069358195,,0.007750831,,0.088038804,,,,0.070486889,,0.008165984,,0.090365832
