@@ -1,5 +1,4 @@
-# Mental-Resilience-Analysis-of-Students-using-Machine-Learning
-
+# Machine Learning (ML)-based and Statistical Analysis Mental Resilience of Students
 # Descriptions of each python file:
 •	Regression & Correlation folder contains python code for finding out correlations and regression results.
 
